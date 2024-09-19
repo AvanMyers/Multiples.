@@ -1,0 +1,7 @@
+C:\Users\smail\source\repos\Multiples\Multiples\bin\Debug\Multiples.exe.config
+C:\Users\smail\source\repos\Multiples\Multiples\bin\Debug\Multiples.exe
+C:\Users\smail\source\repos\Multiples\Multiples\bin\Debug\Multiples.pdb
+C:\Users\smail\source\repos\Multiples\Multiples\obj\Debug\Multiples.csproj.AssemblyReference.cache
+C:\Users\smail\source\repos\Multiples\Multiples\obj\Debug\Multiples.csproj.CoreCompileInputs.cache
+C:\Users\smail\source\repos\Multiples\Multiples\obj\Debug\Multiples.exe
+C:\Users\smail\source\repos\Multiples\Multiples\obj\Debug\Multiples.pdb
