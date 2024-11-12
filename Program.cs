@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Multiples
 {
@@ -17,8 +13,8 @@ namespace Multiples
             int maxSearchNumber = 150;
             int multipleNumber = 0;
 
-            Random rand = new Random();
-            number = rand.Next(minRandom, maxRandom);
+            Random random = new Random();
+            number = random.Next(minRandom, maxRandom + 1);
 
             for (int i = number; i < maxSearchNumber; i += number)
             {
